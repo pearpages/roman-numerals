@@ -22,6 +22,7 @@
     "eject": "react-scripts eject",
     "serve": "serve -s docs"
   },
+  "homepage": "https://pearpages.com/roman-numerals",
   "eslintConfig": {
     "extends": "react-app"
   },
