@@ -12,6 +12,7 @@ export class Input extends Component {
           type="number"
           max="4999"
           min="1"
+          autoFocus
           onChange={event => {
             try {
               const value =

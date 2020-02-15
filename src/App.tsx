@@ -6,7 +6,7 @@ import { Input } from "./Input";
 function App() {
   return (
     <div className="App">
-      <h2>Roman Numbers</h2>
+      <h2>Roman numerals</h2>
       <p>Write any number from 0 to 4999.</p>
       <Input />
     </div>
